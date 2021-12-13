@@ -1,6 +1,6 @@
 ## Git Cheat Sheet
 
-Added in branch main.
+Personal reference for Git Commands.
 Reference for using Git in team projects.
 Summary of Git Commands.
 
@@ -14,6 +14,7 @@ Summary of Git Commands.
 * `git status` - display current status of working directory/repository
 * `git log` - list commit history
 * `git log --oneline`  - List commit history, compact format
+* `git config -l` - list local Git configuration settings
 
 ### Branching Commands
 * `git branch` - check to see what branch you are on
