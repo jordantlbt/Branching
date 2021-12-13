@@ -1,6 +1,11 @@
 ## Git Cheat Sheet
 
+
 Personal reference for Git Commands.
+
+Reference for using Git in team projects
+Summary of Git Commands
+
 
 ### Basic Commands
 * `git init` - Initialize local Git Repository
