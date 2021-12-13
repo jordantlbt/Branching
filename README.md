@@ -17,3 +17,4 @@
 * `git branch` - check to see what branch you are on
 * `git branch newBranchName` - create a new branch where you can chose the name
 * `git checkout newBranchName` - switch to the new branch
+* `git branch -M otherBranch` - rename current branch
